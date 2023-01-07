@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepak Pradhan
 ======================================================================================================================================
 
-Web Developer and Mechanical Engineer
+Software Developer and Mechanical Engineer
 -------------------------------------
 
-* 🌍  I'm based in Amritsar City
+* 🌍  I lives in Amritsar/Punjab.
 * 🖥️  See my portfolio at [Netlify](http://deepakzportfolio.netlify.com/)
 * ✉️  You can contact me at [deepakpradhan614@gmail.com](mailto:deepakpradhan614@gmail.com)
-* 🤝  I'm open to collaborating on React projects
-* ⚡  (ಥ \_ ಥ)
 
 ### Skills
 
