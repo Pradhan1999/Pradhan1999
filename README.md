@@ -1,40 +1,164 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deepak Pradhan
-======================================================================================================================================
+<div align="center">
 
-Software Developer and Mechanical Engineer
--------------------------------------
+# Hi there 👋 I'm Deepak Pradhan
 
-* 🌍  I lives in Amritsar/Punjab.
-* 🖥️  See my portfolio at [here:)](http://deepakzportfolio.netlify.com/)
-* ✉️  You can contact me at [deepakpradhan614@gmail.com](mailto:deepakpradhan614@gmail.com)
+### Senior Frontend Developer | React & Next.js Specialist
 
-### Skills
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Senior+Frontend+Developer;React+%7C+Next.js+Specialist;TypeScript+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💼 Senior Frontend Developer with **3.5+ years of experience**
+- ⚛️ Specializing in **React.js, Next.js, and TypeScript**
+- 🚀 Focused on building **scalable, performant, and user-centric web applications**
+- 🌱 Continuously learning modern frontend patterns and best practices
+- ☁️ Exploring cloud technologies with **AWS (Basics)**
+- 📍 Punjab, India
+- 🎯 Open to exciting opportunities and collaborations
+
+> **Senior Frontend Developer specializing in React and Next.js, focused on building scalable and performant web applications.**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="mailto:deepakpradhan614@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/deepak1712" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://deepakz-folio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Pradhan1999" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
+---
 
-### Socials
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://www.codepen.io/P-Deepak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/deepak-pradhan-b41219192" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Frontend Development
 
-<a href="http://www.github.com/Pradhan1999"><img src="https://activity-graph.herokuapp.com/graph?username=Pradhan1999&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,materialui,html,css,sass,vite" />
+</p>
 
-<a href="https://github.com/Pradhan1999" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan1999&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### State Management & Data Fetching
 
-<b>Top Repositories</b>
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
 
-<div width="100%" align="center"><a href="https://github.com/Pradhan1999/shop-and-go-ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pradhan1999&repo=shop-and-go-ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+- Redux Toolkit
+- React Query (TanStack Query)
+- Zustand
+
+### Tools & Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,aws" />
+</p>
+
+### Additional Expertise
+
+- REST API Integration
+- Responsive Web Design
+- Performance Optimization
+- Code Splitting & Lazy Loading
+- Component-Driven Architecture
+- Cross-Browser Compatibility
+- Reusable UI Development
+- Agile Development Practices
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pradhan1999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradhan1999&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradhan1999&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pradhan1999&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🗣️ TalkScout
+
+> A modern communication platform focused on seamless interactions and user experience.
+
+<a href="https://github.com/Pradhan1999/Talkscout">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradhan1999&repo=Talkscout&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+### 🎥 Video Conferencing App
+
+> Real-time video conferencing application built with modern web technologies.
+
+<a href="https://github.com/Pradhan1999/video-conferencing-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradhan1999&repo=video-conferencing-app&theme=tokyonight&hide_border=true" />
+</a>
+
+---
+
+## 📌 Current Focus
+
+- ⚡ Advanced React Patterns
+- ⚡ Frontend Performance Optimization
+- ⚡ Scalable Architecture
+- ⚡ Type-Safe Development with TypeScript
+- ⚡ Modern State Management Strategies
+
+---
+
+## 💡 Developer Philosophy
+
+> *"Great user experiences are built through clean code, thoughtful design, and continuous learning."*
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find my work interesting, consider starring my repositories and connecting with me.
+
+<img src="https://komarev.com/ghpvc/?username=Pradhan1999&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
