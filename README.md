@@ -115,28 +115,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗣️ TalkScout
-
-> A modern communication platform focused on seamless interactions and user experience.
-
-<a href="https://github.com/Pradhan1999/Talkscout">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradhan1999&repo=Talkscout&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-### 🎥 Video Conferencing App
-
-> Real-time video conferencing application built with modern web technologies.
-
-<a href="https://github.com/Pradhan1999/video-conferencing-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pradhan1999&repo=video-conferencing-app&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
 ## 📌 Current Focus
 
 - ⚡ Advanced React Patterns
